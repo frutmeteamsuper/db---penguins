@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "3.129.29.75",
+    "port": 25018,
+    "url": "",
+    "database":"penguinsdb",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
